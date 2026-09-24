@@ -1,0 +1,2 @@
+# ConcertHub uses Python Standard Library only.
+# Recommended Python version: 3.10+

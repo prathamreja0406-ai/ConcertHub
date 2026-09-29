@@ -43,7 +43,7 @@ logging, and automated testing.
 ### ⚙️ Technical Features
 
 - SQLite persistent storage
-- PBKDF2-HMAC-SHA256 password hashing
+
 - Random password salts
 - Input validation
 - SQLite transactions
